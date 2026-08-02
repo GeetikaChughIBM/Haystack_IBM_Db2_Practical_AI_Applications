@@ -1,0 +1,6 @@
+haystack-ai>=2.17.0
+haystack-integrations>=0.17.0
+ibm-db>=3.2.6
+ibm-db-sa>=0.4.2
+ollama>=0.5.3
+python-dotenv>=1.1.1
